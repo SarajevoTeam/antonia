@@ -1,2 +1,2 @@
-# antonia
-Acesta este un proiect pentru Girls in Stem care consta in prezentarea unei scoli de fotografie.
+# Inna
+Proiectul nostru prezinta o scoala de fotografie, programa aplicata la curs si restul detaliilor despre acesta. 
